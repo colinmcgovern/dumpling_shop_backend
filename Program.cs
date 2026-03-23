@@ -4,6 +4,7 @@ using Microsoft.Data.SqlClient;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
+builder.Services.AddSingleton<DefaultAzureCredential>();
 var app = builder.Build();
 
 // Establish database connection at startup using Azure Managed Identity
