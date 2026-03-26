@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dumpling_connection2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9b004c58a289eabdaec5e8f761767df4e9e0476")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eea4fe64ef00e0f396158b7a6dbc8ecd03fbeb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("dumpling_connection2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dumpling_connection2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

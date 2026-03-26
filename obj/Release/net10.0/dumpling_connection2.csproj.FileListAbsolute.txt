@@ -65,3 +65,9 @@ C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\obj\Releas
 C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\obj\Release\net10.0\dumpling_connection2.pdb
 C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\obj\Release\net10.0\dumpling_connection2.genruntimeconfig.cache
 C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\obj\Release\net10.0\ref\dumpling_connection2.dll
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Release\net10.0\publish\web.config
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Release\net10.0\publish\appsettings.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Release\net10.0\publish\dumpling_connection2.deps.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Release\net10.0\publish\dumpling_connection2.runtimeconfig.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Release\net10.0\publish\dumpling_connection2.staticwebassets.endpoints.json
