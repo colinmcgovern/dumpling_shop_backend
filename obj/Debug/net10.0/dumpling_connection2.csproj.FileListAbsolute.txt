@@ -65,3 +65,9 @@ C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Debug\
 C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\obj\Debug\net10.0\dumpling_connection2.csproj.AssemblyReference.cache
 C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\obj\Debug\net10.0\dumpling.B62E5C79.Up2Date
 C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\obj\Debug\net10.0\dumpling_connection2.sourcelink.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Debug\net10.0\publish\web.config
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Debug\net10.0\publish\appsettings.Development.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Debug\net10.0\publish\appsettings.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Debug\net10.0\publish\dumpling_connection2.deps.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Debug\net10.0\publish\dumpling_connection2.runtimeconfig.json
+C:\Users\theco\source\repos\dumpling_connection2\dumpling_connection2\bin\Debug\net10.0\publish\dumpling_connection2.staticwebassets.endpoints.json

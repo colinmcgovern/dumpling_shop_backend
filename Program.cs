@@ -3,6 +3,16 @@ using Azure.Identity;
 using Microsoft.Data.SqlClient;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(5231);          // HTTP
+    options.ListenAnyIP(7280, listenOptions =>
+    {
+        listenOptions.UseHttps();       // HTTPS (uses dev cert locally)
+    });
+});
+
 builder.Services.AddControllers();
 builder.Services.AddSingleton<DefaultAzureCredential>();
 var app = builder.Build();
